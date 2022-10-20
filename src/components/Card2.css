@@ -1,0 +1,18 @@
+.card__display2{
+    width: 1000px;
+    /* background-color: red !important; */
+    margin: auto;
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.card2{
+    background-color: #1d1a27 !important;
+    border:1px solid #fc7b3d;
+    color: #fc7b3d !important;
+    display: flex;
+    min-width: 300px;
+    min-height: 300px;
+    width: calc(20% - 20px);
+}

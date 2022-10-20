@@ -1,0 +1,71 @@
+.Home{
+    display: flex;
+    padding: 20px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.info{
+    color:#adabaf;
+    width: 40%;
+    display: flex;;
+    flex-direction: column;
+    padding-left: 70px;
+    /* background-color: red; */
+}
+
+.info-head{
+    color: white;
+    font-size: 65px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.btn-drawer{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+
+.About_Us-btn{
+    background-color: #fc7b3d;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 600;   
+    text-decoration: none !important; 
+}
+
+.Contact_Us-btn{
+    background-color: #fc7b3d;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 600;
+    text-decoration: none !important;     
+}
+
+.image-drawer{
+    display: flex;     
+    margin-right: -20px;   
+    overflow: hidden;
+    margin-bottom: -20px;
+}
+
+.image-drawer img{
+    height: 75vh;
+    border-radius: 5px;
+    align-self: flex-end;
+    overflow: hidden;
+}
+
+.Contact_Us-btn:hover{
+    background-color:#f69162;
+}
+
+.About_Us-btn:hover{
+    background-color:#f69162;
+}

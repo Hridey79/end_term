@@ -1,0 +1,27 @@
+.card{
+    background-color: #1d1a27 !important;
+    border:1px solid #fc7b3d;
+    color: #fc7b3d !important;
+    min-height: 350px;
+    min-width: 350px;
+}
+
+.card-written{
+    background-color: #1d1a27 !important;
+    align-self: center;
+}
+
+.heading{
+    align-self:center;
+    font-weight: 800 !important;
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: xx-large !important;
+}
+
+.content{
+    padding: 20px !important;
+    text-align: center !important;
+    font-size:x-large !important;
+    color:whitesmoke !important;
+}
